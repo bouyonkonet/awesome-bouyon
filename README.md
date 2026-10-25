@@ -78,6 +78,7 @@ Bouyon mixes Dominica's jing ping, cadence-lypso, bele, quadrille and chante mas
 
 ## Playlists
 
+- [Bouyon Music 2026 on YouTube](https://www.youtube.com/playlist?list=PLB1axoRydQreXaKD2wlZ5IHJmNmoTWEEd) - The newest bouyon songs from Dominica and the islands, updated every month.
 - [Bouyon playlist](https://bouyonmusique.com/en/playlist-bouyon.html) - New releases, bouyon soca and Carnival classics.
 - [Best bouyon](https://bouyonmusique.com/en/best-bouyon.html) - Essential tracks.
 - [Bouyon songs](https://bouyonmusique.com/en/bouyon-songs.html) - Songs to know.
