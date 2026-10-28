@@ -10,6 +10,7 @@ Bouyon mixes Dominica's jing ping, cadence-lypso, bele, quadrille and chante mas
 - [History](#history)
 - [Styles](#styles)
 - [Artists](#artists)
+- [Artist photos](https://bouyonkonet.github.io/awesome-bouyon/photos/)
 - [Riddims and production](#riddims-and-production)
 - [Dance](#dance)
 - [Festivals](#festivals)
@@ -42,6 +43,8 @@ Bouyon mixes Dominica's jing ping, cadence-lypso, bele, quadrille and chante mas
 - [Bouyon-muffin](https://bouyonmusique.com/en/bouyon-muffin.html) - The dancehall and ragga-influenced branch.
 
 ## Artists
+
+- [Bouyon in pictures](https://bouyonkonet.github.io/awesome-bouyon/photos/) - Artist images, source artwork and links to the full photo directory.
 
 - [Bouyon artist directory](https://bouyonmusique.com/en/artists.html) - Hundreds of artist profiles.
 - [Dominica](https://bouyonmusique.com/en/artists-dominica.html) · [Guadeloupe](https://bouyonmusique.com/en/artists-guadeloupe.html) · [Martinique](https://bouyonmusique.com/en/artists-martinique.html) - Artists by island.
